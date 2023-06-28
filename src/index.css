@@ -1,0 +1,25 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    background: #0F0F0F;
+}
+
+.grey_color {
+    color: #9f9f9f;
+}
+.white_color {
+    color: #fff;
+}
+
+.font16{
+    font-size: 16px;
+}
+.font25 {
+    font-size:35px;
+}
+
+.fontW500{
+    font-weight: 500;
+}
+.fontW700{
+font-weight: 700;
+}
