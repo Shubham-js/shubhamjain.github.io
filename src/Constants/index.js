@@ -1,7 +1,7 @@
 export const headerConstants = {
   HOME: "Home",
   ABOUT: "About",
-  WORK: "Work",
+  WORKS: "Works",
   CONTACT: "Contact",
   LETS_TALK: "Let's talk",
   LOGO: "SJ",

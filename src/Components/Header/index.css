@@ -20,6 +20,10 @@
 .box:hover {
     color: #fff;
 }
+.active
+{
+    color: #fff;
+}
 
 .button {
    background-color:  #323232;
@@ -31,6 +35,7 @@
 
 .button:hover
 {
+    cursor: pointer;
     background-color: #fff;
     color: #323232 !important;
 }
@@ -38,5 +43,6 @@
     transition: 0.5s;
 }
 .box_grow:hover {
+    cursor: pointer;
     transform: scale(1.2);
 }
