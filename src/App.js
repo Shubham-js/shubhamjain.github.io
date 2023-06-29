@@ -13,8 +13,8 @@ import NotFound from "./Components/Not Found/index.tsx";
 const App = () => {
   return (
     <Fragment>
-      <Header />
       <Router>
+        <Header />
         <Switch>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
