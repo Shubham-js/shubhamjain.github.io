@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shubhamjain.github.io/static/css/main.2aa7c542.css",
-    "main.js": "/shubhamjain.github.io/static/js/main.0f67c201.js",
+    "main.css": "/shubhamjain.github.io/static/css/main.363d2ec7.css",
+    "main.js": "/shubhamjain.github.io/static/js/main.2f7d3d4d.js",
     "index.html": "/shubhamjain.github.io/index.html",
-    "main.2aa7c542.css.map": "/shubhamjain.github.io/static/css/main.2aa7c542.css.map",
-    "main.0f67c201.js.map": "/shubhamjain.github.io/static/js/main.0f67c201.js.map"
+    "main.363d2ec7.css.map": "/shubhamjain.github.io/static/css/main.363d2ec7.css.map",
+    "main.2f7d3d4d.js.map": "/shubhamjain.github.io/static/js/main.2f7d3d4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aa7c542.css",
-    "static/js/main.0f67c201.js"
+    "static/css/main.363d2ec7.css",
+    "static/js/main.2f7d3d4d.js"
   ]
 }
