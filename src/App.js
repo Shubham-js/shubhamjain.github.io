@@ -16,10 +16,10 @@ const App = () => {
       <Router>
         <Header />
         <Switch>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/works" element={<Works />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/shubhamjain.github.io" element={<Home />} />
+          <Route path="/shubhamjain.github.io/about" element={<About />} />
+          <Route path="/shubhamjain.github.io/works" element={<Works />} />
+          <Route path="/shubhamjain.github.io/contact" element={<Contact />} />
           <Route path="*" element={<NotFound />} />
         </Switch>
       </Router>
