@@ -1,0 +1,82 @@
+.imageMe {
+    width: 190px;
+    height: 190px;
+    border-radius: 30px 0 30px 0;
+    flex: none;
+    margin: 38px 10px;
+}
+.aboutMe
+{
+    width: 488.4px;
+    height: 270px;;
+    border-radius: 30px;
+    
+
+}
+.background {
+    background: linear-gradient(120deg, rgba(229, 225, 225, 0.05), rgba(229, 225, 225, 0.05));
+    /* background: linear-gradient(120deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05)); */
+}
+.flexme {
+    display: flex;
+    justify-content: space-evenly;
+}
+.descMe
+{
+    margin-top: 28px;
+    word-wrap: break-word;
+    word-break: break-all;
+    width: 165px;
+    
+}
+
+.shadowBox {
+    position: relative;
+    border-radius: 30px;
+    background: #0F0F0F;
+}
+.openToWork {
+    margin-bottom: 24px;
+    border-radius: 30px;
+    width: 462.2px;
+    height: 53px;
+}
+
+/* marquee div container */
+.marquee {
+    font-size: 2vw;
+    color: #fff;
+    height: 3.5vw;
+    overflow: hidden;
+    position: relative;
+
+}
+
+/* nested div inside the container */
+.marquee div {
+    display: block;
+    width: 200%;
+    position: absolute;
+    overflow: hidden;
+    animation: marquee 4s linear infinite;
+}
+
+/* span with text */
+.marquee span {
+    float: left;
+    width: 25%;
+}
+
+/* keyframe */
+@keyframes marquee {
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: -100%;
+    }
+}
+span {
+    margin-top: 12px;
+}
