@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shubhamjain.github.io/static/css/main.f63e4024.css",
-    "main.js": "/shubhamjain.github.io/static/js/main.7e1191bb.js",
+    "main.js": "/shubhamjain.github.io/static/js/main.8e0fdf64.js",
     "index.html": "/shubhamjain.github.io/index.html",
     "main.f63e4024.css.map": "/shubhamjain.github.io/static/css/main.f63e4024.css.map",
-    "main.7e1191bb.js.map": "/shubhamjain.github.io/static/js/main.7e1191bb.js.map"
+    "main.8e0fdf64.js.map": "/shubhamjain.github.io/static/js/main.8e0fdf64.js.map"
   },
   "entrypoints": [
     "static/css/main.f63e4024.css",
-    "static/js/main.7e1191bb.js"
+    "static/js/main.8e0fdf64.js"
   ]
 }
