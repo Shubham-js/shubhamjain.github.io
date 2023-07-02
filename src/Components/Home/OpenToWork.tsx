@@ -1,16 +1,11 @@
 import React from "react";
-
+import Marquee from "react-fast-marquee";
 const OpenToWork = () => {
   return (
     <div className="openToWork background">
-      <div className="marquee">
-        <div>
-          <span>| Open To Opportunities | </span>
-          <span>| Open To Opportunities | </span>
-          <span>| Open To Opportunities | </span>
-          <span>| Open To Opportunities | </span>
-        </div>
-      </div>
+      <Marquee autoFill={true} className={"white_color"}>
+        Open to Opportunities &nbsp;&nbsp;&nbsp;&nbsp;
+      </Marquee>
     </div>
   );
 };

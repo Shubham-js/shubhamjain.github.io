@@ -39,3 +39,29 @@ a {
 .flex {
     display: flex;
 }
+.box_grow {
+    transition: 0.5s;
+}
+
+.box_grow:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.flexCol {
+    display: flex;
+    flex-direction: column;
+}
+
+.alignCenter {
+    align-self: center;
+}
+
+.spaceEvenly {
+    justify-content: space-evenly;
+}
+.marginBottom10{
+    margin-bottom: 10px;
+}
+.marginTop10{
+    margin-top: 10px;
+}

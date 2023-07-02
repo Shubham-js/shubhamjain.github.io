@@ -4,7 +4,11 @@ const MyInfoMe = () => {
     <div className="aboutMe background">
       <div className="flex flexme">
         <div>
-          <img className="imageMe" src="/me.jpg" alt="/" />
+          <img
+            className="imageMe"
+            src="https://drive.google.com/uc?export=view&id=1u1nr_xrc9gY4Re29wPprtH9vZsEggboA"
+            alt="/"
+          />
         </div>
         <div className="descMe">
           <h4 className="grey_color2 font14">Software Engineer</h4>

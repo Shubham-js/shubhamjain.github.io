@@ -39,10 +39,3 @@
     background-color: #fff;
     color: #323232 !important;
 }
-.box_grow {
-    transition: 0.5s;
-}
-.box_grow:hover {
-    cursor: pointer;
-    transform: scale(1.2);
-}

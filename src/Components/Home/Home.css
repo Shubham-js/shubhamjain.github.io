@@ -42,41 +42,22 @@
     height: 53px;
 }
 
-/* marquee div container */
-.marquee {
-    font-size: 2vw;
-    color: #fff;
-    height: 3.5vw;
-    overflow: hidden;
-    position: relative;
-
+.profile {
+    width: 342.5px;
+    height: 284.4px;
+    border-radius: 30px;
 }
-
-/* nested div inside the container */
-.marquee div {
-    display: block;
-    width: 200%;
-    position: absolute;
-    overflow: hidden;
-    animation: marquee 4s linear infinite;
+.aboutBtn {
+    opacity: 0.2;
+    transition: .3s;
+    display: inline-block;
 }
-
-/* span with text */
-.marquee span {
-    float: left;
-    width: 25%;
+.aboutBtn:hover {
+    opacity: 1;
 }
-
-/* keyframe */
-@keyframes marquee {
-    0% {
-        left: 0;
-    }
-
-    100% {
-        left: -100%;
-    }
-}
-span {
-    margin-top: 12px;
+.imgProfiles {
+    width: 60px;
+    height: 60px;
+    flex: none;
+    margin: 38px 10px;
 }
