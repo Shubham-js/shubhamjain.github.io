@@ -1,5 +1,5 @@
 import React from "react";
-import ProfileImg from "./ProfileImg.tsx";
+import ProfileImg from "./ProfileImg";
 import { profileData as p, Logo } from "../../Constants";
 
 const Profiles = () => {

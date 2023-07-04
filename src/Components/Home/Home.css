@@ -61,3 +61,34 @@
     flex: none;
     margin: 38px 10px;
 }
+
+.experience {
+    width:549px;
+    height: 228.2px;
+    border-radius: 30px;
+}
+.experienceSub {
+    width: 151px;
+    height: 180.2px;
+        z-index: 3;
+        /* opacity: 0.2; */
+        background: linear-gradient(120deg, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.05));
+        border-radius: 30px;
+        content: "";
+        /* linear-gradient(120deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.05)); */
+}
+
+.arrangeSubItems {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.marginShiftBottom{
+    margin-bottom:-1px;
+    margin-top: 40px;
+}
+.lwt {
+    width: 549px;
+    height: 229px;
+    border-radius: 30px;
+}

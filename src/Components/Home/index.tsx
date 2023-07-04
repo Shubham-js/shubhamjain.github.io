@@ -1,14 +1,18 @@
 import React from "react";
-import MyInfoMe from "./MyInfoMe.tsx";
+import MyInfoMe from "./MyInfoMe";
 import "./Home.css";
-import OpenToWork from "./OpenToWork.tsx";
-import Profiles from "./Profiles.tsx";
+import OpenToWork from "./OpenToWork";
+import Profiles from "./Profiles";
+import Experience from "./Experience";
+import LetsWorkTogether from "./LetsWorkTogether";
 const Home = () => {
   return (
     <>
       <MyInfoMe />
       <OpenToWork />
       <Profiles />
+      <Experience />
+      <LetsWorkTogether />
     </>
   );
 };

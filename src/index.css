@@ -65,3 +65,12 @@ a {
 .marginTop10{
     margin-top: 10px;
 }
+.marginNTop10{
+    margin-top: -10px;
+}
+.opaque{
+    opacity: 1;
+}
+.blue_color{
+    color:#5B78F6
+}
