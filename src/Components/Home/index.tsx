@@ -5,6 +5,7 @@ import OpenToWork from "./OpenToWork";
 import Profiles from "./Profiles";
 import Experience from "./Experience";
 import LetsWorkTogether from "./LetsWorkTogether";
+import Credenatials from "./Credentials";
 const Home = () => {
   return (
     <>
@@ -13,6 +14,7 @@ const Home = () => {
       <Profiles />
       <Experience />
       <LetsWorkTogether />
+      <Credenatials />
     </>
   );
 };

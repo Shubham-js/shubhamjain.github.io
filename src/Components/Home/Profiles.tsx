@@ -1,6 +1,6 @@
 import React from "react";
 import ProfileImg from "./ProfileImg";
-import { profileData as p, Logo } from "../../Constants";
+import { profileData as p, Logo } from "../../Constants/index.js";
 
 const Profiles = () => {
   return (
